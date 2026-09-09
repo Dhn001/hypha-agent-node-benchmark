@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git --version)",
+      "Bash(npm --version)",
+      "Bash(conda --version)",
+      "PowerShell(& \"D:\\\\anaconda3\\\\Scripts\\\\conda.exe\" --version)",
+      "PowerShell(& \"D:\\\\anaconda3\\\\python.exe\" --version)",
+      "Bash(git init *)",
+      "Bash(git symbolic-ref *)",
+      "Bash(git ls-remote *)",
+      "Bash(echo \"exit code: $?\")",
+      "Read(//d/Hypha/**)",
+      "Read(//d/高校成果转化平台/**)",
+      "Read(//d/高校成果转化平台/backend/app/agents/**)"
+    ]
+  }
+}
