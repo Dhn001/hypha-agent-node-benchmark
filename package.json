@@ -1,0 +1,27 @@
+{
+  "name": "hypha-agent-node-benchmark",
+  "version": "1.0.0",
+  "description": "对 **Hypha Agent 节点体系** 进行能力基准测试的实验仓库。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhn001/hypha-agent-node-benchmark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dhn001/hypha-agent-node-benchmark/issues"
+  },
+  "homepage": "https://github.com/Dhn001/hypha-agent-node-benchmark#readme",
+  "dependencies": {
+    "hypha": "^0.4.5"
+  }
+}
