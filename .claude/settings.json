@@ -12,7 +12,11 @@
       "Bash(echo \"exit code: $?\")",
       "Read(//d/Hypha/**)",
       "Read(//d/高校成果转化平台/**)",
-      "Read(//d/高校成果转化平台/backend/app/agents/**)"
+      "Read(//d/高校成果转化平台/backend/app/agents/**)",
+      "Bash(git config *)",
+      "Bash(echo \"name=[$\\(git config user.name\\)]\")",
+      "Bash(echo \"email=[$\\(git config user.email\\)]\")",
+      "Bash(git check-ignore *)"
     ]
   }
 }
