@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Dhn001/hypha-agent-node-benchmark#readme",
   "dependencies": {
-    "hypha": "^0.4.5"
+    "@codesoul-co/hypha-harness": "^1.0.1"
   }
 }
